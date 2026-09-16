@@ -1,6 +1,6 @@
 {
   "auth": {
-    "token": "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",
+    "token": "",
     "tokenValidated": true,
     "username": "zzrrx"
   },
@@ -39,5 +39,18 @@
     "persistToFile": false,
     "logFilePath": ".github-sync.log",
     "maxEntries": 1000
-  }
+  },
+  "syncState": {
+    "lastSyncTime": 1789570936824,
+    "lastCommitSha": "",
+    "fileHashes": {
+      "未命名.md": "00001505",
+      "GitHub同步指南.md": "771f4cb6"
+    },
+    "fileShas": {
+      "GitHub同步指南.md": "3040ae01935e608c39b04cd85764948e30252bcb",
+      "未命名.md": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    }
+  },
+  "additionalRepoStates": {}
 }

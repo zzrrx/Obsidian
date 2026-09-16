@@ -199,8 +199,11 @@
       "github-octokit:Sync with remote repository": false
     }
   },
-  "active": "bad3d6ce1334a59f",
+  "active": "ffcb88a4e36b0d61",
   "lastOpenFiles": [
+    "project/嵌入式/GitHub同步指南.md",
+    "project/嵌入式",
+    "project",
     "未命名.md",
     "GitHub同步指南.md",
     "未命名.base",
