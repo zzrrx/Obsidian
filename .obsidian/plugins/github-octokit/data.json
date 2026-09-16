@@ -41,15 +41,14 @@
     "maxEntries": 1000
   },
   "syncState": {
-    "lastSyncTime": 1789570936824,
-    "lastCommitSha": "",
+    "lastSyncTime": 1789571253731,
+    "lastCommitSha": "90c6d6c3d9eac417f74c4aee2c4001cec530df47",
     "fileHashes": {
-      "未命名.md": "00001505",
       "GitHub同步指南.md": "771f4cb6"
     },
     "fileShas": {
       "GitHub同步指南.md": "3040ae01935e608c39b04cd85764948e30252bcb",
-      "未命名.md": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+      "project/嵌入式/GitHub同步指南.md": "6d77b2a8af57728bd11cd61c664a7b5704f3a675"
     }
   },
   "additionalRepoStates": {}
