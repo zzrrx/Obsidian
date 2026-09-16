@@ -1,0 +1,10 @@
+{
+	"id": "github-octokit",
+	"name": "GitHub Octokit Sync",
+	"version": "0.9.0",
+	"minAppVersion": "1.13.0",
+	"description": "Sync your vault with GitHub using the Octokit API.",
+	"author": "M Rhoades-Brown",
+	"authorUrl": "https://github.com/rhoades-brown",
+	"isDesktopOnly": false
+}

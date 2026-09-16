@@ -1,0 +1,43 @@
+{
+  "auth": {
+    "token": "",
+    "tokenValidated": true,
+    "username": "zzrrx"
+  },
+  "repo": {
+    "owner": "zzrrx",
+    "name": "Obsidian",
+    "branch": "main",
+    "defaultBranch": "main",
+    "isPrivate": true,
+    "url": "https://github.com/zzrrx/Obsidian"
+  },
+  "subfolderPath": "",
+  "syncSchedule": {
+    "syncOnSave": false,
+    "syncOnInterval": false,
+    "syncOnStartup": false,
+    "intervalMinutes": 30
+  },
+  "commitConfig": {
+    "messageTemplate": "Vault sync: {date}",
+    "includeTimestamp": true,
+    "includeFileCount": true
+  },
+  "syncConfiguration": false,
+  "defaultConflictResolution": "manual",
+  "additionalRepos": [],
+  "ignorePatterns": [
+    ".git/**",
+    ".gitignore"
+  ],
+  "showStatusBar": true,
+  "showNotifications": true,
+  "logging": {
+    "enabled": true,
+    "level": "info",
+    "persistToFile": false,
+    "logFilePath": ".github-sync.log",
+    "maxEntries": 1000
+  }
+}
