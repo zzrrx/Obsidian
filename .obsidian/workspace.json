@@ -199,14 +199,20 @@
       "github-octokit:Sync with remote repository": false
     }
   },
-  "active": "bad3d6ce1334a59f",
+  "active": "b65387407326c5f9",
   "lastOpenFiles": [
-    "未命名.md",
-    "GitHub同步指南.md",
-    "未命名.canvas",
+    "单片机",
+    "Linux",
+    "FreeRTOS",
+    "LiteOS-m",
+    "RT-Thread",
     "project/GitHub同步指南.md",
+    "未命名.md",
+    "project/嵌入式/GitHub同步指南.md",
     "project/嵌入式",
     "project",
+    "GitHub同步指南.md",
+    "未命名.canvas",
     "未命名.base",
     "欢迎.md",
     "2026-09-16.md"
